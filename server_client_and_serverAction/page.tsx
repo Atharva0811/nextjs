@@ -1,5 +1,7 @@
 'use client'
- 
+
+// A Client component
+
 import { useFormState, useFormStatus } from 'react-dom'
 import { signin } from '@/app/actions/auth'
  
